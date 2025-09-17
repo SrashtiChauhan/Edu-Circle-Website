@@ -14,7 +14,7 @@
 * [Project Structure](#project-structure)
 * [API Endpoints](#api-endpoints)
 * [Contributing](#contributing)
-* [License].(#License)
+* [License](#License)
 
 
 ---
