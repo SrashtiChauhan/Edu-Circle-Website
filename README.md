@@ -99,7 +99,6 @@ npm run dev
 * **backend/**
 
   * models/
-  * routes/
   * uploads/
   * server.js
 * README.md
